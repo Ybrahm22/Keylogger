@@ -9,6 +9,8 @@ In order to exit out of the programming hit the 'esc key', this will stop the pr
 Live keylogger action:
 <img src='https://github.com/Ybrahm22/Keylogger/blob/main/Keylogger%20exhibition.gif' title='Keylogger in VSCode' width='' alt='Keylogger in VSCode' />
 
+
+
 Txt file generated:
 <img src='https://github.com/Ybrahm22/Keylogger/blob/main/Createdtxtfile.gif' title='Generated txt file' width='' alt='Generated txt file' />
 
